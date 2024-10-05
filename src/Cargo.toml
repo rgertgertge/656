@@ -1,0 +1,18 @@
+[dependencies]
+solc = "0.5"
+cosmwasm-std = "0.19"
+ibc-proto = "0.19"
+wasmi = "0.8"
+rocksdb = "0.15"
+consul = "0.15"
+mpc = "0.1"
+web3 = 0.47
+ethers = "0.16"
+substrate-api-client = "0.10"
+solana-sdk = "1.10"
+cosmwasm = "0.20"
+substrate-api-client = "0.10"
+polkadot-parachain = "0.9"
+zcash_primitives = "0.5"
+optimal_rollup = "0.1"
+zksync = "0.1"
